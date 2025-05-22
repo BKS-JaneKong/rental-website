@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Shophouse",
+    "address": "2 Lim Tua Tow Road",
+    "rent": "$4700/month",
+    "availability": "1 April 2025",
+    "image": "images/Shophouse and Residential 2.jpg"
+  },
+  {
+    "type": "Shophouse",
+    "address": "12 Lim Tua Tow Road",
+    "rent": "$4700/month",
+    "availability": "17 October 2025",
+    "image": "images/Shophouse and Residential 2.jpg"
+  },
+  {
+    "type": "Shophouse",
+    "address": "16 Lim Tua Tow Road",
+    "rent": "$4700/month",
+    "availability": "14 July 2025",
+    "image": "images/Shophouse and Residential 2.jpg"
+  },
+  {
+    "type": "Shophouse",
+    "address": "53 Joo Chiat Place",
+    "rent": "$4700/month",
+    "availability": "14 August 2025",
+    "image": "images/Shophouse and Residential 53.jpg"
+  },
+  {
+    "type": "Shophouse",
+    "address": "57 Joo Chiat Place",
+    "rent": "$4700/month",
+    "availability": "31 May 2025",
+    "image": "images/Shophouse and Residential 53.jpg"
+  }
+]
